@@ -8,7 +8,7 @@ Key Point : Network 구조, Transfer Learning
 
 ### Cifar10 SOTA
 
-![SOTA.png](SOTA.png)
+![SOTA.PNG](SOTA.PNG)
 
 ### 기초 코드
 
