@@ -472,13 +472,12 @@ print('Test accuracy:', scores[1])
 ```
 
  
- 
+### 목표 
  
  (1) 여러가지 Network 평가 해보기 : Googlnet, Nasnet 등 논문 및 Github Code 참고
  
  (2) Transfer Learning Study 
- 
-#### 
+  
     Cifar10 Size 32x32 → 224x224 Imagenet Wieght를 사용하기 위해서 
    
     *1:  Input Image : 224x224 Resize 
@@ -487,7 +486,6 @@ print('Test accuracy:', scores[1])
    
     *3:  *1,*2 성능 비교 해보기 ( Memory 사용량, 속도, Accuracy 등 )
   
--- 
- 
- 목표 : Test Accuracy : 96.7 % 이상 달성
+--- 
+목표 : Test Accuracy : 96.7 % 이상 달성
  
