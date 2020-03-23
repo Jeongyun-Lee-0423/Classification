@@ -485,6 +485,8 @@ print('Test accuracy:', scores[1])
     *2:  32X32 Size를 유지 하면서 Network 구조 조정   
    
     *3:  *1,*2 성능 비교 해보기 ( Memory 사용량, 속도, Accuracy 등 )
-  
+    
  (3) Test Accuracy : 96.7 % 이상 달성
+
+ 
  --- 
