@@ -482,7 +482,7 @@ print('Test accuracy:', scores[1])
    
     *1:  Input Image : 224x224 Resize 
    
-    *2:  Input Image 32X32 Size 를 유지 하면서 224X224 Image Weight를 사용하기 위해 Network 구조 조정 및    
+    *2:  Input Image 32X32 Size 를 유지 하면서 224X224 Image Weight를 사용하기 위해 Network 구조 조정 및 Code 수정   
    
     *3:  *1,*2 성능 비교 해보기 ( Memory 사용량, 속도, Accuracy 등 )
     
