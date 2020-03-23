@@ -487,5 +487,5 @@ print('Test accuracy:', scores[1])
     *3:  *1,*2 성능 비교 해보기 ( Memory 사용량, 속도, Accuracy 등 )
   
 --- 
-목표 : Test Accuracy : 96.7 % 이상 달성
+ (3) Test Accuracy : 96.7 % 이상 달성
  
