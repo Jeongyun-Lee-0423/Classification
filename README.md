@@ -1,4 +1,4 @@
-# Cifar10 SOTA 따라집기
+# Cifar10 SOTA 따라잡기!
 
 Key Point : Network 구조, Transfer Learning
 
@@ -474,7 +474,7 @@ print('Test accuracy:', scores[1])
  
 ### 목표 
  
- (1) 여러가지 Network 평가 해보기 : Googlnet, Nasnet 등 논문 및 Github Code 참고
+ (1) 여러가지 Network 평가 해보기 : Googlenet, Nasnet 등 논문 및 Github Code 참고
  
  (2) Transfer Learning Study 
   
@@ -487,5 +487,7 @@ print('Test accuracy:', scores[1])
     *3:  *1,*2 성능 비교 해보기 ( Memory 사용량, 속도, Accuracy 등 )
     
  (3) Test Accuracy : 96.7 % 이상 달성 !!
-  
+
+ (4) 동일 성능이면 빠르고 가벼운 Network 이 최고 !! 
+ 
  --- 
